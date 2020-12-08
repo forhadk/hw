@@ -2,7 +2,7 @@
 
 ## Testing GitHub Pages
 
-This is a dummy github page.
+**This is a dummy github page.**
 
 ### Markdown
 
